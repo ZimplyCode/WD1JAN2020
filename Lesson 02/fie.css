@@ -1,0 +1,39 @@
+body {
+ background-image: url("https://imageshack.com/i/porHEVoxp");
+ background-repeat: no-repeat;
+ background-size: 1366px 680px;
+ background-color: #ccc;
+}
+
+p {
+  font-family: "Verdana", sans serif;
+  font-weight: bold;
+}
+
+p {
+  margin-left: 50px;
+  margin-right: 30px;
+}
+
+div.gallery {
+  margin: 15px;
+  float: right;
+  width: 15px;
+}
+
+.frame {
+width: 130px;
+height: 177px;
+border:1px solid black;
+}
+
+div.boxed {
+  box-sizing: border-box;
+  width: 50%;
+  border: 1px solid black;
+  float: left;
+}
+
+button {
+    font-weight : bold;
+}

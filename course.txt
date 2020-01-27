@@ -1,0 +1,7 @@
+SSID: TheCamp
+PASS: WelcomeHome
+
+https://www.facebook.com/SmartNinjaDK/
+https://www.linkedin.com/company/smartninja-denmark
+
+Lek 01: Et sted at placere billeder

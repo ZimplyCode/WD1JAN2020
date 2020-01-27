@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Days+One');
+
+body {
+    font-family: 'Days One', regular;
+    background-color: #d1e0e0;
+    width: 99%;
+    height: 100%;
+}
+
+#nav-container {
+    position: static;
+    margin-top: 1%;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 3px solid #FFFFFF;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    padding: 8px 5px;
+    height: 40px;
+}
+
+.left {
+    background-color: #FFFFFF;
+    float: left;
+    height: 550px;
+    border: 3px solid #FFFFFF;
+    border-radius: 15px;
+    margin-top: 14px;
+    margin-left: 1%;
+}
+.container {
+    border: 3px solid #FFFFFF;
+    border-radius: 15px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.name {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.main {
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 21%;
+    background-color: #FFFFFF;
+    width: 35%;
+    height: 550px;
+    border: 4px solid #FFFFFF;
+    border-radius: 15px;
+}
+
+p.header {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1%;
+}
+
+p.header2 {
+    text-decoration: underline;
+}
+
+table.CV {
+    margin: 0 auto 0 auto;
+    line-height: 1%;
+}
+
+p.content {
+    font-size: 14px;
+    line-height: 1%;
+}
+
+div.right {
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+    background-color: #FFFFFF;
+    width: 40%;
+    height: 550px;
+    border: 4px solid #FFFFFF;
+    border-radius: 15px;
+}
+
+table.images {
+    padding: 1%;
+}
+
+span.images:hover {
+    outline: 1px solid #000000;
+}

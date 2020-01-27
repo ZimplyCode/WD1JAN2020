@@ -1,0 +1,199 @@
+body {
+    font-family: verdana;
+}
+
+.container {
+   width: 448px;
+	height: 505px;
+	border: 1px solid;
+	border-color: #DCDCDC;
+	border-radius: 8px;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+
+}
+
+.logo-block {
+
+    width: 76px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-image {
+
+    margin: 0 auto;
+
+}
+
+.velkommen-block {
+    width: 400px;
+    margin-top: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#login-text {
+    font-size: 23px;
+    tex.align: center;
+
+}
+
+.felt {
+    width: 400px;
+    margin-top: -10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.felt2 {
+    width: 100%;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.password-boks {
+
+    width: 80%;
+    padding: 18px;
+    font-size: 16px;
+    border: 1px solid #DCDCDC;
+    border-radius: 5px;
+
+
+}
+
+.password-boks:hover {
+    border: 2px solid blue;
+    border-radius: 5px;
+
+}
+
+
+.felt3 {
+    width: 400px;
+    margin-top: -10px;
+    margin-left: 28px;
+    margin-right: auto;
+    font-family: helvetica;
+    text-align: left;
+    font-size: 15px;
+
+
+}
+
+.button-glemt {
+
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+direction: ltr;
+white-space: normal;
+font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+box-sizing: inherit;
+border-radius: 4px;
+color: #1a73e8;
+display: inline-block;
+font-weight: 500;
+letter-spacing: .25px;
+background-color: transparent;
+border: 0;
+cursor: pointer;
+font-size: inherit;
+outline: 0;
+padding: 0;
+
+}
+
+.felt4 {
+
+    width: 400px;
+    margin-top: -10px;
+    margin-left: 28px;
+    margin-right: auto;
+    font-family: helvetica;
+    font-size: 15px;
+
+}
+
+.button-opret {
+
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+direction: ltr;
+white-space: normal;
+font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+box-sizing: inherit;
+border-radius: 4px;
+color: #1a73e8;
+display: inline-block;
+font-weight: 500;
+letter-spacing: .25px;
+background-color: transparent;
+border: 0;
+cursor: pointer;
+font-size: inherit;
+outline: 0;
+padding: 8px 0px;
+
+}
+
+.button-next {
+
+width: 50px;
+text-align:center;
+-webkit-tap-highlight-color: transparent;
+direction: ltr;
+white-space: normal;
+font-family: arial,sans-serif;
+box-sizing: inherit;
+border-radius: 4px;
+color: white;
+font-weight: 500;
+letter-spacing: .25px;
+background-color: #1a73e8;
+border: auto;
+cursor: pointer;
+font-size: inherit;
+outline: 0;
+padding: 8px 16px;
+
+}
+
+.button-next:hover {
+
+    color: white;
+    box-shadow: 2px 2px 4px #000000;
+
+}
+
+.felt5 {
+
+    width: 400px;
+    margin-top: -21px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: helvetica;
+    text-align: right;
+    font-size: 15px;
+
+
+}
+
+
+table {
+width: 98%;
+margin-lef: -15px;
+
+}

@@ -1,0 +1,14 @@
+.red {
+    color: red;
+    font-style: italic;
+}
+
+.green {
+    color: green;
+}
+
+div {
+    display: inline;
+    padding: 5px;
+    border: 1px outset;
+}
